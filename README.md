@@ -39,39 +39,3 @@ ahp_project/
 ├── sensitivity_A.py
 ├── sensitivity_B.py
 └── README.md
-```
-
-## 🚀 Upload στο GitHub
-
-1. Αρχικοποίηση git repository:
-```bash
-git init
-```
-
-2. Προσθήκη όλων των αρχείων:
-```bash
-git add .
-```
-
-3. Δημιουργία commit:
-```bash
-git commit -m "Initial commit of AHP Smart City project"
-```
-
-4. Δημιουργία repo στο GitHub (μέσω web)
-
-5. Σύνδεση με το απομακρυσμένο repo:
-```bash
-git remote add origin https://github.com/το-username-σου/το-repo-σου.git
-```
-
-6. Push στο GitHub:
-```bash
-git push -u origin main
-```
-
-> Αν το default branch είναι `master` στο GitHub, άλλαξε το `main` με `master` στο τελευταίο βήμα.
-
----
-
-Για οποιοδήποτε πρόβλημα με το push ή setup, πες μου να το λύσουμε βήμα-βήμα.
